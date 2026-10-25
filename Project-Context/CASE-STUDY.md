@@ -44,4 +44,4 @@ For run 2 I tightened the instructions (shorter answers, one citation per fact, 
 - **A design tension:** a 3-bullet limit can't hold a full project health summary (test 9). The assistant chose completeness, which I think was right; the rule was too strict.
 - **Caveat:** v2 was tuned on the same 10 questions, so the gains show the fixes worked here, not that they generalise. An account skill also leaked into one test again.
 
-**Lesson:** instructions reliably shaped *what* the assistant would and wouldn't say, but only loosely shaped *how much* it said.
+**Lesson:** across these two runs, the assistant generally followed the instructions about *what* to say, but followed the instructions about *how much* to say much less consistently.
