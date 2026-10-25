@@ -1,6 +1,6 @@
 # Project Knowledge Assistant
 
-A small, honest demo: an AI assistant that answers project questions **only from the project's documents**. It cites its sources, flags conflicts and gaps, and ignores instructions hidden inside a document.
+A small demo: an AI assistant that answers project questions **only from the project's documents**. It cites its sources, flags conflicts and gaps, and ignores instructions hidden inside a document.
 
 *Built with the Claude desktop app (Pro plan): no code, no API, no connectors. All data is fictional.*
 
