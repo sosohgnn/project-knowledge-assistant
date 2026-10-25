@@ -26,4 +26,4 @@ Four short documents and 10 questions, tuned and tested on the same set. This is
 
 ## Repository layout
 - `Agent-Sources/`: the four fictional project documents. This is the only folder the test assistant could read.
-- `Project-Context/`: builder material: test questions, instructions, results and write-ups.
+- `Project-Context/`: builder material: test questions, instructions, results and write-ups. [BACKGROUND-BRIEFING.md](Project-Context/BACKGROUND-BRIEFING.md) is the background I gave myself; the assistant was told never to cite it (it was called `README.md` during testing).
